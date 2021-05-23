@@ -1,2 +1,2 @@
-# showing-weather
+# Showing Weather
 learning react programing
